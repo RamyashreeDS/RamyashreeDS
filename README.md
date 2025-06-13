@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Ramyashree!
 
-🚀 Data Scientist <br/> 
+** 🚀 Data Scientist <br/> **
 
 📍 California <br/>
 📧 Email: ramyashreesde96@gmail.com <br/>
