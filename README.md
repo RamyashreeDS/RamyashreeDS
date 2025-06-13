@@ -1,11 +1,11 @@
 ## 👋 Hello, I'm Ramyashree!
 
-🚀 Data Scientist
+🚀 Data Scientist< br / > 
 
-📍 California
-📧 Email: ramyashreesde96@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/ramyashree-suresha-5b9963145/
-👨‍💻 GitHub: RamyashreeDS
+📍 California< br / > 
+📧 Email: ramyashreesde96@gmail.com< br / > 
+🔗 LinkedIn: https://www.linkedin.com/in/ramyashree-suresha-5b9963145/< br / > 
+👨‍💻 GitHub: RamyashreeDS< br / > 
 
 About Me 🌐
 Blending over 4 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
