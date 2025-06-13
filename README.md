@@ -1,18 +1,31 @@
 ## 👋 Hello, I'm Ramyashree!
 
-🚀 AI/ML Engineer
+🚀 Data Scientist
 
-<!--
-**RamyashreeDS/RamyashreeDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 California
+📧 Email: ramyashreesde96@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/ramyashree-suresha-5b9963145/
+👨‍💻 GitHub: RamyashreeDS
 
-Here are some ideas to get you started:
+About Me 🌐
+Blending over 4 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professional Highlights 🌟
+Data Scientist -Bangalore, India (2022 - Present)
+Associate Data scientist - Capgemini, India (2021 - 2022)
+Software Developer - Powerschool, India (2019-2021)
+
+Tech Toolbox 🛠️
+Languages: Python, SQL, JavaScript, Ruby
+Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
+Tools: AWS, GCP, Docker, Git
+Specialties: LLMs, Generative AI, NLP, Search
+
+Education 🎓
+Masters in DS, Northeastern University
+Bachelors in Electronics, Visvesvaraya Technological University
+
+Certifications 📜
+Coursera: Deep Learning, Machine Learning, Mathematics for ML Specializations
+Udacity: NLP, ML, React Nanodegrees
+🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
