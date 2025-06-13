@@ -7,25 +7,25 @@
 🔗 LinkedIn: https://www.linkedin.com/in/ramyashree-suresha-5b9963145/ <br/>
 👨‍💻 GitHub: RamyashreeDS <br/> 
 
-About Me 🌐
-Blending over 4 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
+About Me 🌐 <br/>
+Blending over 4 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences. <br/>
 
-Professional Highlights 🌟
-Data Scientist -Bangalore, India (2022 - Present)
-Associate Data scientist - Capgemini, India (2021 - 2022)
-Software Developer - Powerschool, India (2019-2021)
+Professional Highlights 🌟 <br/>
+Data Scientist -Bangalore, India (2022 - Present) <br/>
+Associate Data scientist - Capgemini, India (2021 - 2022) <br/>
+Software Developer - Powerschool, India (2019-2021) <br/>
 
-Tech Toolbox 🛠️
-Languages: Python, SQL, JavaScript, Ruby
-Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-Tools: AWS, GCP, Docker, Git
-Specialties: LLMs, Generative AI, NLP, Search
+Tech Toolbox 🛠️ <br/>
+Languages: Python, SQL, JavaScript, Ruby <br/>
+Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy <br/>
+Tools: AWS, GCP, Docker, Git <br/>
+Specialties: LLMs, Generative AI, NLP, Search <br/>
 
-Education 🎓
-Masters in DS, Northeastern University
-Bachelors in Electronics, Visvesvaraya Technological University
-
-Certifications 📜
-Coursera: Deep Learning, Machine Learning, Mathematics for ML Specializations
-Udacity: NLP, ML, React Nanodegrees
-🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
+Education 🎓 <br/>
+Masters in DS, Northeastern University <br/>
+Bachelors in Electronics, Visvesvaraya Technological University <br/>
+ 
+Certifications 📜 <br/>
+Coursera: Deep Learning, Machine Learning, Mathematics for ML Specializations <br/>
+Udacity: NLP, ML, React Nanodegrees <br/>
+🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat! <br/>
