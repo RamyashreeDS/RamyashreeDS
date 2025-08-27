@@ -11,7 +11,7 @@ About Me 🌐 <br/>
 Blending over 4 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences. <br/>
 
 Professional Highlights 🌟 <br/>
-Data Scientist -Bangalore, India (2022 - Present) <br/>
+Data Scientist - Societe Generale, India (2022 - 2025) <br/>
 Associate Data scientist - Capgemini, India (2021 - 2022) <br/>
 Software Developer - Powerschool, India (2019-2021) <br/>
 
