@@ -1,31 +1,51 @@
-## 👋 Hello, I'm Ramyashree!
+# Hi, I'm Ramyashree 👋  
 
-**🚀 Data Scientist** <br/> 
+🎓 MS in Data Science @ Northeastern University (USA)  
+💻 4+ Years of Professional Experience as a Data Scientist  
+🌐 Experienced in Machine Learning, MLOps, and Cloud Data Engineering  
+🏆 Recognized with Employee of the Year (2023) and Innovation Award (2024) at Société Générale  
 
-📍 California <br/>
-📧 Email: ramyashreesde96@gmail.com <br/>
-🔗 LinkedIn: https://www.linkedin.com/in/ramyashree-suresha-5b9963145/ <br/>
-👨‍💻 GitHub: RamyashreeDS <br/> 
+---
 
-About Me 🌐 <br/>
-Blending over 4 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences. <br/>
+## 🔧 Tech Stack  
 
-Professional Highlights 🌟 <br/>
-Data Scientist - Societe Generale, India (2022 - 2025) <br/>
-Associate Data scientist - Capgemini, India (2021 - 2022) <br/>
-Software Developer - Powerschool, India (2019-2021) <br/>
+- **Languages:** Python, SQL, C  
+- **Machine Learning / AI:** scikit-learn, XGBoost, Random Forest, Logistic Regression  
+- **MLOps / Pipelines:** Kedro, MLflow, Databricks  
+- **Cloud & Data:** Azure Data Lake, Data Engineering  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **Other:** Streamlit, Django, Git  
 
-Tech Toolbox 🛠️ <br/>
-Languages: Python, SQL, JavaScript, Ruby <br/>
-Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy <br/>
-Tools: AWS, GCP, Docker, Git <br/>
-Specialties: LLMs, Generative AI, NLP, Search <br/>
+---
 
-Education 🎓 <br/>
-Masters in DS, Northeastern University <br/>
-Bachelors in Electronics, Visvesvaraya Technological University <br/>
- 
-Certifications 📜 <br/>
-Coursera: Deep Learning, Machine Learning, Mathematics for ML Specializations <br/>
-Udacity: NLP, ML, React Nanodegrees <br/>
-🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat! <br/>
+## 📂 Featured Projects  
+
+### 🚗 **Stress Test ML Pipeline (Société Générale)**  
+Scalable Kedro-based ML pipeline for vehicle residual value predictions across 7 European countries. Automated quarterly reporting framework and integrated MLflow for experiment tracking.  
+🔗 *Code cannot be shared due to confidentiality, but ask me about my contributions!*  
+
+### 📊 **PrevIA Model (Challenger ML Framework)**  
+Developed an alternate ML model to cross-validate residual values and improve risk assessment accuracy. Recognized for boosting model interpretability and robustness.  
+
+### 🛡️ **Password Strength Prediction (PowerSchool)**  
+ML model integrated into PowerSchool Enrollment to classify password strength and improve platform cybersecurity.  
+
+### 📈 **Sales Forecasting Web App**  
+Built a Django-based web app for forecasting SIS product sales using ML models. Provided stakeholders with interactive dashboards and predictions.  
+
+---
+
+## 📌 Current Focus  
+
+- Building personal projects in **ML, data pipelines, and AI** to showcase advanced skills.  
+- Open to **collaborations** and **internship opportunities** for Summer 2026.  
+
+---
+
+## 🌐 Connect With Me  
+
+- [LinkedIn](https://www.linkedin.com/in/ramyashree-suresha-5b9963145)  
+- [Email](mailto:ramyashreesde96@gmail.com)  
+- [GitHub](https://github.com/RamyashreeDS)  
+
+---
